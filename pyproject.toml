@@ -1,0 +1,7 @@
+[project]
+name = "carsalesman"
+version = "0.1.0"
+description = "Salesman chatbot for Car dealer companies"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
